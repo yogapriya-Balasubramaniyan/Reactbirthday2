@@ -5,8 +5,36 @@
   justify-content: center;
   align-items: center;
 }
-
 .card {
+  background: #eae7e8;
+  padding: 25px;
+  border-radius: 25px;
+  width: 90%;
+  max-width: 380px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(255, 182, 193, 0.4);
+}
+.card h2 {
+  font-family: 'Pacifico', cursive;
+  color: #511964;
+  font-size: 1.6rem;
+  margin-bottom: 15px;
+}
+.card p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #040105;
+  margin-bottom: 12px;
+}
+.end {
+  font-family: 'Pacifico', cursive;
+  color: #481d61;
+  font-size: 1.2rem;
+  margin-top: 15px;
+}
+
+/* .card {
   background: white;
   padding: 20px;
   border-radius: 20px;
@@ -14,7 +42,7 @@
   max-width: 380px;
   text-align: center;
   animation: cardPop 0.6s ease;
-}
+} */
 
 @keyframes cardPop {
   from {

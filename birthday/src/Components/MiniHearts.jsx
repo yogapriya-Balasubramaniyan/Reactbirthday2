@@ -12,7 +12,7 @@ const MiniHearts = () => {
             animationDuration: `${6 + Math.random() * 4}s`,
           }}
         >
-        💗✨💗
+        💗
         </span>
       ))}
     </div>

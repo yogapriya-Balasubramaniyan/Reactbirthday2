@@ -9,12 +9,12 @@ const FirstPage = () => {
     <div className="first-page">
       <MiniHearts />
 
-      <h1>🎉Something special is
-         waiting for you ngaa!!!🎉</h1>
-      <h2>Tab the open to get to knowwwww</h2>
+      <h2>🎉Something special is <br></br>
+         waiting for you ngaa!!!🎉</h2>
+      <h3>Tab the open to get to knowwwww</h3>
 
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos99RkFlSrUVNe0vnZ0SCD9GM5yNFZGh0pA&s"
+        src="https://wishes.photos/wp-content/uploads/2024/05/Blue-Watercolor-Happy-Birthday-Image-On-your-special-day-I-hope-all-your-dreams-come-true.-Happy-Birthday-1024x1024.jpg"
         alt="Happy Birthday"
         className="birthday-img"
       />
